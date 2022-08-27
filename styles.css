@@ -1,0 +1,170 @@
+/* Celulares Pequeños */
+body{
+    background-color: purple;
+}
+header{
+    background-color: orange;
+    
+}
+main{
+    background-color: black;
+}
+side-var{
+    background-color: green;
+}
+footer{
+    background-color: orange;
+}
+#img1{
+    height:100px;
+    width:120px;
+    
+
+}
+#img2{
+    height:100px;
+    width:120px;
+
+}
+#img3{
+    height:100px;
+    width:120px;
+
+}
+#img4{
+    height:100px;
+    width:120px;
+
+}
+/* Iphone 12 pro */
+@media screen and (min-width:390px) {
+    body{
+        background-color: red;
+    }
+    header{
+        background-color: orange;
+        font-size: large;
+        
+    }
+    main{
+        background-color: black;
+        font-size: large;
+    }
+    side-var{
+        background-color: green;
+    }
+    footer{
+        background-color: orange;
+        font-size: xx-large;
+    }
+    #img1{
+        height:150px;
+        width:150px;
+        
+    
+    }
+    #img2{
+        height:150px;
+        width:150px;
+    
+    }
+    #img3{
+        height:150px;
+        width:150px;
+    
+    }
+    #img4{
+        height:150px;
+        width:150px;
+    
+    }
+    
+}
+/* para tablets */
+
+@media screen and (min-width:768px) {
+    body{
+        background-color: palegreen;
+    }
+    header{
+        background-color: orange;
+        font-size: x-large;
+        
+    }
+    main{
+        background-color: black;
+        font-size: xx-large;
+    }
+    side-var{
+        background-color: green;
+    }
+    footer{
+        background-color: orange;
+        font-size: x-large;
+    }
+    #img1{
+        height:200px;
+        width:200px;
+        
+    
+    }
+    #img2{
+        height:200px;
+        width:200px;
+    
+    }
+    #img3{
+        height:200px;
+        width:200px;
+    
+    }
+    #img4{
+        height:300px;
+        width:618px;
+    
+    }
+    
+}
+/* PARA COMPUTADORAS Y TELES */
+@media screen and (min-width:1024px) {
+    body{
+        background-color: skyblue;
+    }
+    header{
+        background-color: orange;
+        font-size: xx-large;
+        
+    }
+    main{
+        background-color: black;
+    }
+    side-var{
+        background-color: green;
+    }
+    footer{
+        background-color: orange;
+    }
+    #img1{
+        height:250px;
+        width:250px;
+        
+    
+    }
+    #img2{
+        height:250px;
+        width:250px;
+    
+    }
+    #img3{
+        height:250px;
+        width:250px;
+    
+    }
+    #img4{
+        height:500px;
+        width:768px;
+    
+    }
+    
+}
+
